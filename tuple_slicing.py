@@ -1,0 +1,7 @@
+tup=(8,6,4,7,4)
+print(tup[0:4])
+print(tup[:4])
+print(len(tup))
+print(tup[0:len(tup)])
+print(tup[-5:-1])
+print(tup[-2:-1])
